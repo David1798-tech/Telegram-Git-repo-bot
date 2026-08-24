@@ -1,8 +1,14 @@
+<div align="center">
+
 # 👾 GitBot — Telegram GitHub & Deploy Assistant
 
-Interact with your GitHub repos and trigger deployments to Vercel and Render — all from Telegram.
+**Interact with your GitHub repos and trigger deployments to Vercel and Render — all from Telegram**
 
----
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+[![Python](https://img.shields.io/badge/python-3.10%2B-blue)](https://www.python.org)
+[![Made by Mr Syco](https://img.shields.io/badge/made%20by-Mr%20Syco-6E9EFF)](https://github.com/Sycosmile)
+
+</div>
 
 ## Commands
 

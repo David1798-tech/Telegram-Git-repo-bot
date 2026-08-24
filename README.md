@@ -29,8 +29,8 @@ Interact with your GitHub repos and trigger deployments to Vercel and Render —
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/David1798-tech/gitbot.git
-cd gitbot
+git clone https://github.com/Sycosmile/Telegram-Git-repo-bot.git
+cd Telegram-Git-repo-bot
 pip install -r requirements.txt
 ```
 
@@ -97,3 +97,9 @@ gitbot/
 ├── .env.example
 └── Procfile
 ```
+
+---
+
+## License
+
+MIT — see `LICENSE` for details.
